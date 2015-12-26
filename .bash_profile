@@ -20,3 +20,5 @@ alias	l='ls'
 
 # use vi-style command editing
 set -o vi
+export VISUAL=vim
+
